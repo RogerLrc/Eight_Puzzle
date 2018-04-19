@@ -1,1 +1,1 @@
-**source code,can be executed with qt **
+**source code,can be executed with qt**
